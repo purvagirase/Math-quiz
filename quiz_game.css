@@ -1,0 +1,14 @@
+.login_page{
+    text-align: center;
+    border-width: 2;
+    color: white;
+}
+body{
+    background-color: brown;
+}
+.adduser{
+    text-align: center;
+    background-color: burlywood;
+    border-color: black;
+    width: 5;
+}
